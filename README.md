@@ -2,9 +2,9 @@
 This repository pertains to the Introduction to Machine Learning Course that we undertook during our enrollment in the Masters program in Business Analytics at The University of Texas at Austin, McCombs School of Business.
 
 ## Group Members
-- Anubhav Nehru
-- Abhijit Anil
-- Milind Bhatia
+- Anubhav Nehru (an33868)
+- Abhijit Anil (aa94375)
+- Milind Bhatia (mb67324)
 
 ## Exercise Answers
 
