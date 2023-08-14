@@ -23,7 +23,7 @@ So, whether you're here to explore, learn, or contribute, fasten your seatbelt a
 2. [Wrangling the Billboard Top 100: Billboard_code.ipynb](Billboard_code.ipynb)
 3. [Visual story telling part 1: Green Buildings](Green_Buildings_2.ipynb)
 4. [Visual story telling part 2: Capital Metro data](CampusUT_final.ipynb)
-5. [Clustering and dimensionality reduction](Clustering and dimensionality reduction.ipynb)
+5. [Clustering and dimensionality reduction](/Clustering and dimensionality reduction.ipynb)
 6. [Market segmentation: Marketing Segmentation.ipynb](Marketing_Segmentation.ipynb)
 7. [The Reuters corpus: reuters_corpus.ipynb](reuters_corpus.ipynb)
 8. [Association rule mining: AssociationRules.ipynb](AssociationRules.ipynb)
